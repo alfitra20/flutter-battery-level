@@ -1,4 +1,4 @@
-package alfitra.flutter_native_service_app
+package alfitra.flutter_native_battery_level
 
 import android.os.Bundle
 
