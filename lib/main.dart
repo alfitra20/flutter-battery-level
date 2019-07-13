@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
      return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter Native Sercice"),
+        title: Text("Flutter Native Battery Level"),
       ),
       body: Center(
         child: Column(
